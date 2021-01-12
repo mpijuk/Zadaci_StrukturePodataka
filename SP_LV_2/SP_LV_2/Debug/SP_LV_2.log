@@ -1,0 +1,5 @@
+﻿  Lista.c
+c:\users\mario\source\repos\sp_lv_2\sp_lv_2\lista.c(47): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'pozicija'
+c:\users\mario\source\repos\sp_lv_2\sp_lv_2\lista.c(49): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'pozicija'
+c:\users\mario\source\repos\sp_lv_2\sp_lv_2\lista.c(106): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 4 has type 'pozicija'
+  SP_LV_2.vcxproj -> C:\Users\MARIO\source\repos\SP_LV_2\Debug\SP_LV_2.exe

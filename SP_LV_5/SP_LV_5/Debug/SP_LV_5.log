@@ -1,0 +1,3 @@
+﻿  Lista.c
+c:\users\mario\source\repos\sp_lv_5\sp_lv_5\lista.c(68): warning C4047: 'return': 'position' differs in levels of indirection from 'int'
+  SP_LV_5.vcxproj -> C:\Users\MARIO\source\repos\SP_LV_5\Debug\SP_LV_5.exe
